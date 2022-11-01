@@ -1,0 +1,10 @@
+Enter temperature in Fahrenheit: 
+36
+Temperature in Fahrenheit: 36.0
+Temperature in Celsius: 0.8888888888888888
+Temperature in Kelvin: 274.0388888888889
+Enter temperature in Fahrenheit: 
+36
+Temperature in Fahrenheit: 36.0
+Temperature in Celsius: 2.2222222222222223
+Temperature in Kelvin: 275.3722222222222

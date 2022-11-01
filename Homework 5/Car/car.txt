@@ -1,0 +1,32 @@
+Enter year of model: 
+2000
+Enter make: 
+Fitz
+5
+10
+15
+20
+25
+20
+20
+20
+20
+20
+Year of car model: 2000
+Make of car: Fitz
+Enter year of model: 
+2000
+Enter make: 
+Honda
+5
+10
+15
+20
+25
+20
+15
+10
+5
+0
+Year of car model: 2000
+Make of car: Honda
